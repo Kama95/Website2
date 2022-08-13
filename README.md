@@ -5,3 +5,7 @@ This shit kinda hard.
 
 #some more and more texct to show that we branching and merging and adfoig all sorts of perograming things.
 git commit vommoti
+
+#Commit message for conflict and problems
+
+Let us see see how this works shall we
