@@ -5,3 +5,8 @@ This shit kinda hard.
 
 #some more and more texct to show that we branching and merging and adfoig all sorts of perograming things.
 git commit vommoti
+
+#Some more and more changes and changes
+
+and more changes 
+and more chaneges
